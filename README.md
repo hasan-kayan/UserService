@@ -1,2 +1,2 @@
-# AuthenticationService
-Basic Express JS Authentication and Authorization service.
+# USER SERVICE
+Basic Express JS User Service.
